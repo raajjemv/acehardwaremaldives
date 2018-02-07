@@ -1,0 +1,6 @@
+Options +SymLinksIfOwnerMatch
+Options -Indexes
+
+# secure directory by disabling script execution
+AddHandler cgi-script .php .pl .py .jsp .asp .htm .shtml .sh .cgi
+Options -ExecCGI

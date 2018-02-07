@@ -1,0 +1,302 @@
+.myaccount{
+	margin-bottom: 25px;
+}
+	.myaccount h1{
+		font-weight: 100;
+		font-size: 28px;
+	}
+	.myaccount .or{
+		font-weight: 100;
+		color: #999;
+		font-size: 18px;
+		padding-top: 150px;
+		text-align: center;
+	}
+	.myaccount .alert-login{
+		margin-top: -10px;
+	}
+	.myaccount .login-register{
+		background-color: #f9f9f9;
+	}
+		.myaccount .login-register h2,
+		.quotation-add-form h2{
+			font-weight: 300;
+			font-size: 18px;
+			padding: 25px;
+			color: #3E454C;
+			border-bottom: 1px solid #e5e5e5;
+		}
+			.myaccount .login-register h2:before,
+			.quotation-add-form h2:before{
+				float: left;
+				color: #CCC;
+				padding-right: 15px;
+				font-size: 30px;
+			}
+		.myaccount .login-register h2 span,
+		.quotation-add-form h2 span{
+			font-size: 12px;
+			margin-top: 5px;
+			display: block;
+			color: #999;
+		}
+		.myaccount .login-register p{
+			font-size: 12px;
+			font-weight: 300;
+			padding: 25px;
+			color: #888;
+			padding-top: 10px;
+			border-bottom: 1px solid #e5e5e5;
+			margin-bottom: 0px;
+		}
+	.myaccount .form{
+		padding: 25px;
+		padding-top: 10px;
+	}
+		.myaccount label,
+		.quotation-add-form label{
+			font-size: 12px;
+			color: #888;
+			font-weight: 300;
+		}
+			.myaccount label span,
+			.quotation-add-form label span{
+				color: #EE3C41;
+			}
+		.myaccount .form-control,
+		.quotation-add-form .form-control{
+			width: 100%;
+			height: 34px;
+			padding: 6px 12px;
+			font-size: 12px;
+			font-weight: 300;
+			line-height: 1.428571429;
+			color: #555;
+			vertical-align: middle;
+			background-color: #fff;
+			background-image: none;
+			border: 1px solid #e5e5e5;
+			border-radius: 0px;
+			-webkit-box-shadow: none;
+			box-shadow: none;
+			-webkit-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+			transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+		}
+		.myaccount .btn-default,
+		.quotation-add-form .btn-default{
+			font-size: 12px;
+			font-weight: 300;
+			border-radius: 0px;
+			padding: 6px 12px;
+			color: #FFF;
+			border: none;
+			background-color: #C32B33;
+		}
+		.quotation-add-form .btn-change,
+		.myaccount .btn-change{
+			font-size: 12px;
+			font-weight: 300;
+			border-radius: 0px;
+			padding: 6px 12px;
+			margin-right: 10px;
+			color: #FFF;
+			border: none;
+			background-color: #CCCCCC;
+		}
+		.myaccount .form a{
+			font-size: 11px;
+			color: #888;
+			display: block;
+			margin-right: 25px;
+			font-weight: 300;
+		}
+			.myaccount .form a:hover{
+				color: #EE3C41;
+			}
+
+.myaccount .head,
+.cart .head{
+	margin-top: 20px;
+	text-transform: uppercase;
+	border-bottom: 1px solid #e5e5e5;
+	background-color: #f9f9f9;
+}
+	.myaccount .head h2,
+	.cart .head h2{
+		font-weight: 300;
+		font-size: 18px;
+		padding: 25px;
+		padding-bottom: 15px;
+		color: #3E454C;
+	}
+	.myaccount .head h2 span,
+	.cart .head h2 span{
+		font-size: 12px;
+		display: block;
+		color: #999;
+		margin-top: 5px;
+		text-transform: capitalize;
+	}
+.myaccount .menu,
+.cart .menu{
+	padding: 25px;
+	background-color: #f9f9f9;
+}
+	.myaccount .menu a,
+	.cart .menu a{
+		color: #666;
+		font-size: 14px;
+		font-weight: 300;
+		display: block;
+		padding: 10px 0px;
+		border-bottom: 1px dotted #eaeaea;
+	}
+		.myaccount .menu a span,
+		.cart .menu a span{
+			font-size: 11px;
+			display: block;
+			color: #999;
+		}
+		.myaccount .menu a:last-child,
+		.cart .menu a:last-child{
+			border-bottom: none;
+		}
+		.myaccount .menu a:before,
+		.cart .menu a:before{
+			width: 20px;
+			margin-right: 25px;
+			font-size: 24px;
+			width: 18px;
+			color: #CCCCCC;
+			float: left;
+			display: inline-block;
+			text-align: center;
+		}
+		.myaccount .menu a:hover,
+		.cart .menu a:hover{
+			color: #C32B33;
+		}
+			.myaccount .menu a:hover:before,
+			.cart .menu a:hover:before{
+				color: #EE3C41;
+			}
+		.myaccount .menu a.active,
+		.cart .menu a.active{
+			color: #EF3D42;
+			font-weight: 400;
+		}
+			.myaccount .menu a.active:before,
+			.cart .menu a.active:before{
+				color: #EF3D42;
+			}
+.myaccount .contents{
+	margin-top: 20px;
+}
+	.myaccount .contents .quo{
+		background-color: #f9f9f9;
+		padding: 25px;
+		padding-bottom: 15px;
+		margin-bottom: 25px;
+	}
+	.myaccount .contents .small_box{
+		background-color: #f9f9f9;
+		padding: 25px;
+		height: 200px;
+		padding-bottom: 15px;
+		margin-bottom: 25px;
+	}
+		.myaccount .contents .small_box p{
+			border-top: 1px solid #EEE;
+			border-bottom: 1px solid #EEE;
+			font-size: 14px;
+			color: #888;
+			text-align: center;
+			font-weight: 300;
+			padding: 10px 0px;
+		}
+			.myaccount .contents .small_box p a.links{
+				display: block;
+				text-align: left;
+				font-size: 12px;
+				color: #888;
+				padding: 7px 0px;
+			}
+				.myaccount .contents .small_box p a.links:before{
+					color: #CCC;
+					display: inline-block;
+					margin-right: 15px;
+				}
+			.myaccount .contents .small_box p span.bubble{
+				color: #C82C34;
+				font-weight: 400;
+			}
+		.myaccount .contents .small_box a.btn{
+			font-size: 11px;
+			color: #FFF;
+			background-color: #6BB9D3;
+			display: block;
+			margin-bottom: 5px;
+		}
+	.myaccount .contents h2{
+		font-weight: 300;
+		font-size: 18px;
+		text-transform: uppercase;
+		margin: 0px;
+		margin-bottom: 20px;
+	}
+	.myaccount .table{
+		font-size: 12px;
+		color: #666;
+	}
+		.myaccount .table thead th{
+			font-weight: 400;
+			text-transform: uppercase;
+			border: none;
+		}
+		.myaccount .table tbody td{
+			font-weight: 300;
+			border-bottom: 1px solid #eaeaea;
+		}
+			.myaccount .table tbody tr:last-child td{
+				border: none;
+			}
+			.myaccount .table tbody td a{
+				color: #999;
+				font-weight: 400;
+			}
+			.myaccount .table tbody td a:hover{
+				color: #EE3C41;
+			}
+	.myaccount .table-nav{
+		text-align: right;	
+	}
+		.myaccount .table-nav a{
+			display: inline-block;
+			width: 20px;
+			height: 20px;
+			line-height: 20px;
+			text-align: center;
+			color: #FFF!important;
+			background-color: #CCC;
+			-webkit-border-radius: 4px;
+					border-radius: 4px;
+		}
+		.myaccount .table-nav a.download{
+			background-color: #9DDC89;
+		}
+		.myaccount .table-nav a.view {
+			background-color: #6BB9D3;
+		}
+		.myaccount .table-nav a.cancel{
+			background-color: #E47073;
+		}
+	.myaccount .password-controller{
+		background-color: #f4f4f4;
+		padding: 10px;
+		padding-bottom: 1px;
+	}
+		.myaccount .password-controller .password-controller-fields{
+			display: none;
+			padding-top: 10px;
+			border-top: 1px solid #e0e0e0;
+		}

@@ -1,0 +1,22 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment http://php-font-lib.googlecode.com/
+EncodingScheme FontSpecific
+Copyright Wingdings 2 designed by Bigelow & Holmes Inc. for Microsoft Corporation. Copyright © 1992 Microsoft Corporation. Pat. Pend. All Rights Reserved. © 1990-1991 Type Solutions, Inc. All Rights Reserved.
+FontName Wingdings 2
+FontSubfamily Normal
+UniqueID Wingdings 2
+FullName Wingdings 2
+Version Version 1.55
+PostScriptName Wingdings2
+Trademark Wingdings is a trademark of Microsoft Corporation.
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 49
+UnderlinePosition -98
+FontHeightOffset 24
+Ascender 771
+Descender 205
+FontBBox 0 -211 1111 843
+EndFontMetrics
